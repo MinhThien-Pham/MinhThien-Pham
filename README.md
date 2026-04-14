@@ -85,11 +85,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=MinhThien-Pham&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## ✨ A Few Things About Me
-
-- I enjoy turning messy real-world problems into practical software
-- I like building projects that are useful, not just theoretical
-- I’m always looking to grow in backend, systems, and security
