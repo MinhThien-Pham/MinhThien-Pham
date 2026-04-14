@@ -66,15 +66,6 @@
 
 ---
 
-## 📌 Current Focus
-
-- Building reliable backend tools
-- Learning production-minded development
-- Exploring secure and fault-tolerant systems
-- Creating software that solves real user problems
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
