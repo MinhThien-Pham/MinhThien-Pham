@@ -12,6 +12,8 @@ Built with **React, Supabase (PostgreSQL, Auth, and Storage), and Vite**. Includ
 
 [Live demo](https://volunteer-social-hub.netlify.app/) · [Source code](https://github.com/MinhThien-Pham/Volunteer-Social-Hub)
 
+![Volunteer Social Hub demo](https://imgur.com/a/udIuvKC)
+
 ### [MLC-CLI Build Service](https://github.com/MinhThien-Pham/fastapi-mlc-docker)
 
 A FastAPI and Docker service that turns an LLM build workflow into repeatable APIs for model preparation, quantization, compilation, runtime checks, and local chat.
