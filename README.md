@@ -1,78 +1,23 @@
-<h1 align="center">Hi 👋, I'm Minh Thien Pham</h1>
-<h3 align="center">CS @ UCF | SWE & Security-Focused Builder | Undergraduate Research Assistant</h3>
+# Minh Thien Pham
 
-<p align="center">
-  I build practical backend, full-stack, and reliability-focused software.
-</p>
+Computer Science student at UCF building full-stack applications, backend systems, and developer tools.
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=MinhThien-Pham&label=Profile%20views&color=0e75b6&style=flat">
-    <img src="https://komarev.com/ghpvc/?username=MinhThien-Pham&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  </a>
-</p>
+## Selected work
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner" />
-  <img src="https://img.shields.io/badge/CompTIA-A%2B-EA3E23?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
-  <img src="https://img.shields.io/badge/UCF-Dean's_List-6f42c1?style=for-the-badge" alt="Dean's List" />
-</p>
+### [Volunteer Social Hub](https://github.com/MinhThien-Pham/Volunteer-Social-Hub)
 
----
+A volunteer-focused community forum for sharing opportunities, experiences, questions, and resources.
 
-## 🚀 About Me
+Built with **React, Supabase (PostgreSQL, Auth, and Storage), and Vite**. Includes user accounts, public profiles, categorized posts, multi-image uploads, comments, search and filtering, and responsive desktop/mobile layouts.
 
-- 🔭 I’m currently working on **[FastAPI + Docker LLM backend tools for model serving, testing, and automation](https://github.com/MinhThien-Pham/fastapi-mlc-docker)**
-- 🌱 I’m currently learning **FastAPI, Docker, CI/CD, testing, observability, backend infrastructure, and secure systems**
-- 🎯 I’m especially interested in **software engineering, backend development, security, and reliability**
+[Live demo](https://volunteer-social-hub.netlify.app/) · [Source code](https://github.com/MinhThien-Pham/Volunteer-Social-Hub)
 
----
+### [MLC-CLI Build Service](https://github.com/MinhThien-Pham/fastapi-mlc-docker)
 
-## 🌐 Connect With Me
+A FastAPI and Docker service that turns an LLM build workflow into repeatable APIs for model preparation, quantization, compilation, runtime checks, and local chat.
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/minhthienpham/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Minh%20Thien%20Pham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://minhthienpham.me" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-minhthienpham.me-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:phamminhthien065@gmail.com">
-    <img src="https://img.shields.io/badge/Email-phamminhthien065%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Built with **Python, FastAPI, Docker, CUDA, and Server-Sent Events**.
 
----
+## Connect
 
-## 🛠 Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="./profile/stats.svg" height="165" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MinhThien-Pham&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/minhthienpham/) · [Portfolio](https://minhthienpham.me) · [Email](mailto:phamminhthien065@gmail.com)
