@@ -4,7 +4,7 @@ Computer Science student at UCF building full-stack and desktop applications, fr
 software a small business runs every day to deployed web apps with tested, layered backends.
 Looking for **software engineering internships and new-grad roles**.
 
-[Portfolio](https://minhthienpham.me) · [LinkedIn](https://www.linkedin.com/in/minhthienpham/) · [Email](mailto:phamminhthien065@gmail.com)
+[Portfolio](https://minhthienpham.me) · [LinkedIn](https://www.linkedin.com/in/minthp/) · [Email](mailto:phamminhthien065@gmail.com)
 
 ## Featured projects
 
